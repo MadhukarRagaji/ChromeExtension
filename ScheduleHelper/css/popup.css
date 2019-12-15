@@ -1,0 +1,23 @@
+.cMainDiv {
+	width: 130px;
+	margin-left: 15%;
+}
+
+.cddlProj {
+	width: 100px !important;
+	display: inline;
+}
+
+.cDivlbl {
+	padding: 0px;
+	margin-left: 2%;
+}
+
+.cDivddl {
+	padding-bottom: 10px;
+	padding-left: 1%;
+	margin-left: 2%;
+}
+.cSwitch {
+	padding: 10px 32px;
+}
